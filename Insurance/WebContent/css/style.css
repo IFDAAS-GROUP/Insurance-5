@@ -1,0 +1,235 @@
+
+
+#content{
+	width:1150px; 
+	height:700px;
+	border:1px solid red;
+	margin:10px 0px 0px 10px;
+	
+}
+#line{background-color:blue no-repeat;
+	}
+#imag2{
+	width:150px; 
+	height:40px;
+	border:1px solid red;
+	margin:10px 70px 0px 10px;
+	float:left;
+background:url("../images/als_logo_trust_large.png") no-repeat;
+	
+}
+h{font-size:25px;
+margin:70px 0px 0px 10px;
+float:left;
+}
+#imag3{
+	width:150px; 
+	height:40px;
+	border:1px solid red;
+	margin:10px 70px 0px 10px;
+	float:right;
+background:url("../images/btn_continue_over.png") no-repeat;
+	
+}
+
+#Allstate{
+	width:300px; 
+	height:70px;
+	border:1px solid black;
+	margin:20px 0px 0px -70px;
+	background-color:blue;
+	float:left;
+	
+}
+
+h4{color:white;	
+}
+
+#subcontent{
+	width:1100px; 
+	height:550px;
+	border:1px solid red;
+	margin:10px 10px 0px 10px;
+	background-color:white;
+	float:right;
+}
+h1{color:blue;
+font-size:35px;
+text-align:center;
+
+}
+h2{color:blue;
+font-size:20px;
+text-align:center;
+}
+
+#Box1{
+	width:340px; 
+	height:200px;
+	border:10px solid blue;
+	margin:50px 15px 0px 10px;
+	float:left;
+	
+	
+}
+#Name{
+	width:340px; 
+	height:40px;
+	border:1px solid black;
+	margin:0px 0px 0px 0px;
+	background-color:blue;
+	
+}
+
+h3{color:white;
+
+	
+}
+
+
+
+#Box1_1{
+	width:140px; 
+	height:90px;
+	border:1px solid black;
+	margin:30px 10px 0px 10px;
+	float:left;
+	
+}
+#Box1_2{
+	width:140px; 
+	height:90px;
+	border:1px solid black;
+	margin:30px 10px 0px 10px;
+	float:right;
+	
+}
+
+#Box2 {width:280px; 
+	height:200px;
+	border:10px solid blue;
+	margin:50px 15px 0px 10px;
+	float:left;
+}
+#Born{
+	width:280px; 
+	height:40px;
+	border:1px solid black;
+	margin:0px 0px 0px 0px;
+	background-color:blue;
+	
+}
+
+h3{color:white;
+
+	
+}
+#Box2_1{
+	width:250px; 
+	height:80px;
+	border:1px solid black;
+	margin:50px 10px 0px 10px;
+	float:right;
+	
+}
+
+#Box3 {width:340px; 
+	height:200px;
+	border:10px solid blue;
+	margin:50px 15px 10px 0px;
+	float:left;
+}
+#address1{
+	width:340px; 
+	height:40px;
+	border:1px solid black;
+	margin:0px 0px 0px 0px;
+	background-color:blue;
+	
+}
+
+h3{color:white;
+
+	
+}
+
+#Address{
+	width:230px; 
+	height:40px;
+	border:1px solid black;
+	margin:20px 10px 0px 10px;
+	float:left;
+	
+}
+
+#City_State{
+	width:230px; 
+	height:80px;
+	border:1px solid black;
+	margin:70px 0px 0px 10px;
+	
+	
+}
+#City{
+	width:100px; 
+	height:50px;
+	border:1px solid black;
+	float:left;
+	margin:10px 0px 0px 10px;
+	
+}
+#State{
+	width:90px; 
+	height:40px;
+	border:1px solid red;
+	float:right;
+	margin:10px 25px 0px 0px;
+}
+#Apt_Zip{
+	width:90px; 
+	height:140px;
+	border:1px solid black;
+	float:right;
+	margin:-140px 0px 0px 50px;
+	
+	
+}
+#Apt{
+	width:70px; 
+	height:45px;
+	border:1px solid black;
+	float:right;
+	margin:10px 0px 0px 10px;
+}
+#Zipcode{
+	width:70px; 
+	height:45px;
+	border:1px solid black;
+	float:right;
+	margin:10px 0px 10px 10px;
+	
+	
+}
+
+
+#benefit{
+	width:450px; 
+	height:110px;
+	border:1px solid red;
+	margin:10px 330px 0px 10px;
+	float:right;
+background:url("../images/quote_benefits.jpg") no-repeat;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
